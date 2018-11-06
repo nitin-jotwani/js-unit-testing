@@ -1,0 +1,15 @@
+{
+  "name": "js-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@nitin.github.com:nitin-jotwani/js-unit-testing.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
